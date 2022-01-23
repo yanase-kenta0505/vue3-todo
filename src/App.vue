@@ -1,3 +1,9 @@
+
+<script lang="ts" setup>
+import Todo from './components/todo.vue';
+
+</script>
+
 <template>
-  <div>hello</div>
+  <Todo/>
 </template>
